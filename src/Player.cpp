@@ -5,7 +5,7 @@
 //  Created by Ryan Carney on 10/7/23.
 //
 
-#include "Player.h"
+#include "./../include/Player.h"
 
 Player::Player() {
     mFiveCardHand.setHandRank( HandRanking::HIGHCARD );

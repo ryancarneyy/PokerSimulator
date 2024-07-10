@@ -6,7 +6,7 @@
 //
 
 #include <stdio.h>
-#include "Card.h"
+#include "./../include/Card.h"
 
 // no-arg constructor
 Card::Card() {

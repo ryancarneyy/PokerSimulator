@@ -6,7 +6,7 @@
 //
 
 #include <stdio.h>
-#include "PlayerHand.h"
+#include "./../include/PlayerHand.h"
 
 
 PlayerHand::PlayerHand(){}

@@ -6,7 +6,7 @@
 //
 
 #include <stdio.h>
-#include "Table.h"
+#include "./../include/Table.h"
 #include <ctime>
 #include <cstdlib>
 #include <algorithm>

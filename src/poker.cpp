@@ -4,7 +4,7 @@
 //
 //  Created by Ryan Carney on 10/6/23.
 //
-#include "Table.h"
+#include "./../include/Table.h"
 #include <iostream>
 #include <cstdlib>
 #include <cassert>
