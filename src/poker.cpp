@@ -167,6 +167,7 @@ int main() {
     players.push_back( Player( "Player 2" ) );
     players.push_back( Player( "Player 3" ) );
     Table table = Table( players, 1000 );
+    cout << endl;
     table.deal();
     table.runFlop();
     table.runTurn();
